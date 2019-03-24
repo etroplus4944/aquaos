@@ -1,1 +1,3 @@
 # aquaos
+
+[FAQ](FAQ)
